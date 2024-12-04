@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haktan Emre</h1>
-<h3 align="center">Full Stack Developer from Turkey</h3>
+<h3 align="center">Full Stack Developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **Football Field Managment**
 
